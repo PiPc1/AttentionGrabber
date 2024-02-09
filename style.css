@@ -1,0 +1,20 @@
+#top{
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    color: rgb(0, 118, 11);
+}
+
+#centerTXT{
+    text-align: center;
+}
+
+#email{
+    text-align: center;
+ 
+}
+
+.resizedTextbox {width: 150px; height: 150px}
+
+.heart{
+text-align: center;
+}
